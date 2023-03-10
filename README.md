@@ -1,3 +1,6 @@
+<h2>Overview:</h2>
+<p>The purpose of this exploratory data analysis is to identify key ride sharing metrics by city type and create a graphical representation of the total weekly fares based on the city types which will help improve access to ride sharing services and determine ride affordability.</p>
+
 <h2>Results:</h2>
 <p>The analysis showed that rural cities had the highest average fare per driver and ride while urban cities had the lowest. The high fares observed in rural cities were due to the low number of total rides and total drivers in those cities.</p>
 <p>The multiple line graph showed that urban cities had the highest total fare within the months of January to April 2019, followed by rural cities while suburban cities had the lowest fare. The low fares observed in suburban cities and the drop in the number of ride usage in rural cities within the months of January to April 2019 could be due to the low number of available rides and drivers in those cities. Allocating more rides and drivers to these cities will most likely reduce average fare per ride and driver, which will boost ride affordability. In addition, providing more rides to urban cities within the months of January to April will help meet the demand for rides in those months, increase revenue, and enhance affordability.</p>
